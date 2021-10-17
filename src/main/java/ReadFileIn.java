@@ -12,15 +12,15 @@ public class ReadFileIn {
 
 
 
-        String[] lexiconSplit = lexicon.split("\\s(?!\\n)");
+        String[] lexiconSplit = lexicon.split("(\\s)");
        if(!(lexiconSplit.length % 2==0)){
             throw new Exception();
        }
-        for (int i = 0; i <lexiconSplit.length-1 ; i++) {
+        for (int i = 0; i <lexiconSplit.length-1 ; i +=2){
 
-            int j = i +1;
 
-            tags.put(lexiconSplit[i].trim(),lexiconSplit[j].trim());
+
+            tags.put(lexiconSplit[i].trim(),lexiconSplit[i+1].trim());
 
         }
 
@@ -30,7 +30,7 @@ public class ReadFileIn {
     }
     public static String[] readFileIn(String fileName)throws Exception{
         String fileToBeTagged = new String(Files.readAllBytes(Paths.get(fileName)));
-        String[] filetoBeTaggedSplit = fileToBeTagged.split(" +|(?=\\\\p)|(?<=\\\\p)");
+        String[] filetoBeTaggedSplit = fileToBeTagged.split(" +|(?=\\n)|(?<=\\n)");
 
 
 

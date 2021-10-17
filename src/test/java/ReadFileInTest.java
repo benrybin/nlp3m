@@ -41,6 +41,9 @@ public class ReadFileInTest {
 
     @Test
     public void readFileIn() throws Exception {
+        String[] testarray = ReadFileIn.readFileIn("src/main/resources/document");
+
+        assertTrue(testarray.length == 573);
 
 
 
