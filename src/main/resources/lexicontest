@@ -1,0 +1,8 @@
+AEROEMBOLUS	DiagnosisOrProblem
+AIRWAY	Anatomy
+AORTOGRAM	Test
+AORTOILIAC	Anatomy-Desc
+BACILLI	Organism
+BACTERIURIA	SymptomOrSign
+BALLANTYNE	DiagnosisOrProblem
+BANDS	Device|Anatomy-Desc|Histology
