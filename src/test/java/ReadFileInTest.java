@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -26,14 +28,21 @@ public class ReadFileInTest {
         assertFalse(lexiconTest.containsValue("false"));
     }
     @org.junit.Test(expected = Exception.class)
-    public void readLexiconInexception() {
+    public void readLexiconInexception() throws Exception {
         Map<String,String> lexiconTest = new HashMap<String, String>();
-        try {
-            lexiconTest = ReadFileIn.readLexiconIn("src/main/resources/lexicontjunit.txt");
-        }catch(Exception ex){
+
+            lexiconTest = ReadFileIn.readLexiconIn("src/main/resources/lexicontjunitexp.txt");
 
 
-        }
-        assertFalse(lexiconTest.containsValue("false"));
+
+
+
+    }
+
+    @Test
+    public void readFileIn() throws Exception {
+
+
+
     }
 }

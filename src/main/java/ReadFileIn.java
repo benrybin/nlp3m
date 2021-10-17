@@ -28,5 +28,14 @@ public class ReadFileIn {
 
 
     }
+    public static String[] readFileIn(String fileName)throws Exception{
+        String fileToBeTagged = new String(Files.readAllBytes(Paths.get(fileName)));
+        String[] filetoBeTaggedSplit = fileToBeTagged.split(" +|(?=\\\\p)|(?<=\\\\p)");
+
+
+
+
+        return filetoBeTaggedSplit;
+    }
 
 }
