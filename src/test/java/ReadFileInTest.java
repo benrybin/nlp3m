@@ -13,9 +13,9 @@ public class ReadFileInTest {
         try {
              lexiconTest = ReadFileIn.readLexiconIn("src/main/resources/lexicontjunit.txt");
         }catch(Exception ex){
-
+        System.out.println(lexiconTest.get("BANDS"));
         }
-        assertTrue(lexiconTest.containsValue("SymptomOrSign"));
+        assertTrue("Device|Anatomy-Desc|Histology".equals(lexiconTest.get("BANDS")));
     }
     @org.junit.Test
     public void readLexiconInNegative() {
@@ -34,18 +34,13 @@ public class ReadFileInTest {
             lexiconTest = ReadFileIn.readLexiconIn("src/main/resources/lexicontjunitexp.txt");
 
 
-
-
-
     }
 
     @Test
     public void readFileIn() throws Exception {
         String[] testarray = ReadFileIn.readFileIn("src/main/resources/document");
 
-        assertTrue(testarray.length == 573);
-
-
+        assertTrue(!(testarray==null));
 
     }
 }

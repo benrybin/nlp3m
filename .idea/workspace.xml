@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="569cc142-c71b-432a-b431-82a83b0cf9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/document1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexicon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/document1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lexicon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/files/lexicontest1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TaggerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexicon" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/FileReaderNPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReaderNPL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ReadFileIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReadFileIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tagger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tagger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/files/document" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/files/document1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/files/lexicontest1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ReadFileInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReadFileInTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TaggerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TaggerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/document" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inital design.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lexicon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lexicontest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lexicontjunit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lexicontjunitexp.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,36 +32,64 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NLP3M$All_in_nlp3m.ic" NAME="All in nlp3m Coverage Results" MODIFIED="1634554045695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/NLP3M$ReadFileInTest.ic" NAME="ReadFileInTest Coverage Results" MODIFIED="1634499099271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="86" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ReadFileIn.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tagger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+            <state relative-caret-position="189">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testfile.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ReadFileIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2646">
-              <caret line="98" column="14" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="14" />
+            <state relative-caret-position="1107">
+              <caret line="41" column="108" selection-start-line="41" selection-start-column="108" selection-end-line="41" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FileReaderNPL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/files/solution.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Tagger.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReadFileInTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="402">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -77,6 +108,10 @@
     <findStrings>
       <find>/</find>
       <find>vein</find>
+      <find>vein/</find>
+      <find>vein.</find>
+      <find>veins</find>
+      <find>'s</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,16 +127,24 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/lexicontest" />
         <option value="$PROJECT_DIR$/src/main/resources/lexicontjunitexp.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/ReadFileInTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TaggerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/files/document1" />
-        <option value="$PROJECT_DIR$/src/main/java/FileReaderNPL.java" />
         <option value="$PROJECT_DIR$/src/main/java/files/testfile.txt" />
         <option value="$PROJECT_DIR$/testfile.txt" />
         <option value="$PROJECT_DIR$/document1" />
-        <option value="$PROJECT_DIR$/src/main/java/ReadFileIn.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReadFileInTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TaggerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Tagger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ReadFileIn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileReaderNPL.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -121,7 +164,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -132,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,11 +225,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634512234953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634826525697" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -225,13 +268,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.FileReaderNPL">
-    <configuration name="FileReaderNPL (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileReaderNPL" />
-      <option name="PROGRAM_PARAMETERS" value="lexicon document testfile.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FileReaderNPL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileReaderNPL" />
       <module name="nlp3m" />
@@ -239,11 +275,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFileInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in nlp3m" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nlp3m" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReadFileInTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -268,17 +303,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NLP3M-1.0-SNAPSHOT.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/target/NLP3M-1.0-SNAPSHOT.jar" />
-      <method v="2" />
+    <configuration name="ReadFileInTest.readLexiconInexception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nlp3m" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReadFileInTest" />
+      <option name="METHOD_NAME" value="readLexiconInexception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaggerTest.tagger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nlp3m" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TaggerTest" />
+      <option name="METHOD_NAME" value="tagger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FileReaderNPL" />
-        <item itemvalue="Application.FileReaderNPL (1)" />
-        <item itemvalue="JAR Application.NLP3M-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.All in nlp3m" />
+        <item itemvalue="JUnit.TaggerTest.tagger" />
         <item itemvalue="JUnit.ReadFileInTest.readFileIn" />
-        <item itemvalue="JUnit.ReadFileInTest" />
+        <item itemvalue="JUnit.ReadFileInTest.readLexiconInexception" />
       </list>
     </recent_temporary>
   </component>
@@ -307,72 +358,87 @@
       <option name="project" value="LOCAL" />
       <updated>1634499459426</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed lexicon and tagger">
+      <created>1634512361920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634512361920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReadFileInTest_readLexiconIn - 2021.10.17 at 15h 20m 42s.xml">
-      <configuration name="ReadFileInTest.readLexiconIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest_readLexiconIn - 2021.10.17 at 15h 20m 47s.xml">
-      <configuration name="ReadFileInTest.readLexiconIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest_readLexiconIn - 2021.10.17 at 15h 20m 51s.xml">
-      <configuration name="ReadFileInTest.readLexiconIn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest_readLexiconInNegative - 2021.10.17 at 15h 21m 46s.xml">
+    <history-entry file="ReadFileInTest_readLexiconInNegative - 2021.10.18 at 06h 36m 26s.xml">
       <configuration name="ReadFileInTest.readLexiconInNegative" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileInTest - 2021.10.17 at 15h 21m 51s.xml">
-      <configuration name="ReadFileInTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest - 2021.10.17 at 15h 21m 57s.xml">
-      <configuration name="ReadFileInTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest_readLexiconInexception - 2021.10.17 at 15h 27m 49s.xml">
+    <history-entry file="ReadFileInTest_readLexiconInexception - 2021.10.18 at 06h 36m 31s.xml">
       <configuration name="ReadFileInTest.readLexiconInexception" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileInTest_readLexiconInexception - 2021.10.17 at 15h 28m 20s.xml">
-      <configuration name="ReadFileInTest.readLexiconInexception" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest - 2021.10.17 at 15h 31m 40s.xml">
-      <configuration name="ReadFileInTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReadFileInTest_readFileIn - 2021.10.17 at 15h 51m 52s.xml">
+    <history-entry file="ReadFileInTest_readFileIn - 2021.10.18 at 06h 36m 44s.xml">
       <configuration name="ReadFileInTest.readFileIn" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ReadFileInTest_readFileIn - 2021.10.18 at 06h 37m 24s.xml">
+      <configuration name="ReadFileInTest.readFileIn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaggerTest_tagger - 2021.10.18 at 06h 44m 46s.xml">
+      <configuration name="TaggerTest.tagger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaggerTest_tagger - 2021.10.18 at 06h 44m 48s.xml">
+      <configuration name="TaggerTest.tagger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaggerTest_tagger - 2021.10.18 at 06h 46m 01s.xml">
+      <configuration name="TaggerTest.tagger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaggerTest_tagger - 2021.10.18 at 06h 46m 44s.xml">
+      <configuration name="TaggerTest.tagger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaggerTest_tagger - 2021.10.18 at 06h 47m 14s.xml">
+      <configuration name="TaggerTest.tagger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_nlp3m - 2021.10.18 at 06h 47m 27s.xml">
+      <configuration name="All in nlp3m" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.07196162" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.123667374" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.49919224" visible="true" weight="0.06503198" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.06503198" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -406,38 +472,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lexicon reader works 2 junit test writen" />
-    <option name="LAST_COMMIT_MESSAGE" value="lexicon reader works 2 junit test writen" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/FileReaderNPL.java</url>
-          <line>3</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tagger.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="fixed lexicon and tagger" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed lexicon and tagger" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lexicontest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -459,43 +501,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReadFileInTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TaggerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2457">
-          <caret line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/FileReaderNPL.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/file.txt" />
+    <entry file="file://$PROJECT_DIR$/target/classes/FileReaderNPL.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/file.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/files/lexicon">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -503,13 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/files/document1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2916">
-          <caret line="108" column="11" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/document1" />
     <entry file="file://$PROJECT_DIR$/src/main/java/files/document">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2781">
@@ -517,12 +519,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/files/lexicontest1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/files/testfile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/lexicontest1" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/testfile.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/document">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2403">
@@ -532,20 +530,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Tagger.class">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReaderNPL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="93" selection-start-line="4" selection-start-column="93" selection-end-line="4" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2943">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FileReaderNPL.class">
       <provider selected="true" editor-type-id="text-editor" />
@@ -557,32 +541,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lexicon">
+    <entry file="file://$PROJECT_DIR$/lexicon" />
+    <entry file="file://$PROJECT_DIR$/file.txt" />
+    <entry file="file://$PROJECT_DIR$/document" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lexicontjunit.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15833" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2646">
-          <caret line="98" column="14" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="14" />
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lexicontest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TaggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="87" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document1" />
+    <entry file="file://$PROJECT_DIR$/testfile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/final.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tagger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ReadFileIn.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ReadFileIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        <state relative-caret-position="1107">
+          <caret line="41" column="108" selection-start-line="41" selection-start-column="108" selection-end-line="41" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tagger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/files/solution.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state relative-caret-position="135">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReaderNPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReadFileInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>

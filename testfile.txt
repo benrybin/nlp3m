@@ -1,0 +1,105 @@
+
+ Radiology Consultation 
+ 
+ 
+ 
+ Clinical data/Measure: Deep venous/Anatomy-Adj thrombosis and hypercoagulable state  
+ for placement of IVC filter 
+ 
+ Procedure: 
+ Following informed consent, the patient was placed supine on the  
+ fluroscopic table. Continuous hemodynamic monitoring was  
+ performed. The patient received intravenous sedation/TreatmentOrProcedure. Limited  
+ ultrasound of the right/Locative neck/Anatomy demonstrates patency and 
+ compressibility of the right/Locative internal jugular vein/Anatomy without  
+ evidence of intraluminal thrombus. The right/Locative groin was prepped  
+ and draped in sterile fashion. Skin anesthesia was achieved using  
+ 2% Lidocaine/PharmacyOrDrug solution. The right/Locative internal jugular vein/Anatomy was  
+ punctured using a 21 gauge single wall/Anatomy-Desc needle/Device. A 0.018 inch guide  
+ wire was advanced into the vein/Anatomy and the needle/Device was exchanged for a  
+ 5 French sheath. Via the sheath, a 0.035 inch Bentson guidewire  
+ was advanced into the vein/Anatomy and the needle/Device was exchanged for a 5  
+ French vascular/Anatomy-Adj sheath. Via the sheath, a 5 French flush catheter/Device  
+ was placed at the iliac bifurcation/Locative|Anatomy-Desc. Digital/Anatomy-Adj subtraction  
+ venography/Test was performed from this station. 
+ 
+ Findings: Inferior vena/Anatomy-Desc cavogram demonstrates standard anatomy.  
+ No intraluminal filling defects/DiagnosisOrProblem are identified to suggest  
+ thrombus. 
+ Intervention: A stainless-steel greenfield vena/Anatomy-Desc caval/Anatomy-Adj|Anatomy-Desc filter was  
+ successfully deployed below/Locative the level/Measure of the renal/Anatomy-Desc veins/Anatomy without 
+ incident within the inferior vena/Anatomy-Desc cava/Anatomy|Anatomy-Desc. The patient tolerated  
+ the procedure without complication. 
+ 
+ Impression: 
+ 
+ 1) Normal inferior vena/Anatomy-Desc cavogram as above. 
+ 
+ 2) Successful deployment of IVC filter in the infrarenal IVC as  
+ above, 
+ Images were reviewed and interpreted by Attending Radiologist:  
+ 
+ Finalized on: Apr-30-2004 4:40 PM by TalkStation Interface 
+ Billing Codes: 36010 x1,37620 x1,75825 x1,75940 x1,14100382 x1,14102006 x1 
+ 
+ 
+ 
+ Radiology Consultation 
+ 
+ 
+ 
+ 
+ 
+ Clinical data/Measure: Subcutaneous abscess from gastrostomy/TreatmentOrProcedure|Device 
+ tube site for drainage 
+ 
+ Procedure: The patient was placed supine on the fluroscopic table.  
+ Continuous monitoring was performed. The left/Locative upper quadrant was  
+ prepped and draped in sterile fashion. Skin anesthesia was  
+ achieved using 2% Lidocaine/PharmacyOrDrug solution. Limited ultrasound was  
+ performed to localize the left/Locative upper quadrant subcutaneous fluid  
+ collection/DIAGNOSISORPROBLEM. The left/Locative subcutaneous fluid collection/DIAGNOSISORPROBLEM was punctured  
+ under ultrasound guidance using a 21 gauge needle/Device. Pus was  
+ aspirated with a specimen sent for culture. A 0.018 inch  
+ guidewire was advanced into the collection/DIAGNOSISORPROBLEM and the needle/Device was  
+ exchanged for a 5 french sheath. Via the sheath a 0.035 inch  
+ guidewire was advanced into the collection/DIAGNOSISORPROBLEM and the sheath was  
+ exchanged for an 8 french catheter/Device. Via the catheter/Device  
+ approximately 60cc of pus were aspirated. The catheter/Device was  
+ sutured to the skin and placed to gravity drainage. 
+ 
+ Impression: Ultrasound drainage abdomen as above. 
+ Images were reviewed and interpreted by Attending Radiologist:  
+ Finalized on: Apr-30-2004 3:32	PM by TalkStation Interface 
+ Billing Codes: 20501 x1,76000 x1,76080 x1,14102022 x1,14102045 x1,14102126  
+ 
+ 
+ 
+ Clinical data/Measure: Osteomyelitis for IV antibiotics 
+ Procedure: 
+ Ultrasound demonstrates patency and compressibility of the right/Locative  
+ brachial vein/Anatomy. The right/Locative upper extremity was prepped and draped  
+ in sterile fashion. Skin anesthesia was achieved using 2 %  
+ Lidocaine/PharmacyOrDrug solution. The right/Locative brachial vein/Anatomy was punctured under  
+ ultrasound guidance using a 21 gauge needle/Device. A 0.018 inch  
+ guidewire was advanced into the SVC and the needle/Device was exchanged  
+ for a 5 French peel-away sheath. Via this sheath a 5 French  
+ single lumen PICC/DEVICE|DIAGNOSISORPROBLEM line/Device was placed with its tip/Locative to the SVC/RA  
+ junction. The catheter/Device flushed well and was sutured to the skin.  
+ Dilute heparinized saline/Biochemistry|PharmacyOrDrug was instilled into the catheter/Device. The  
+ patient tolerated the procedure well without complication. 
+ 
+ Findings: 
+ 
+ Ultrasound demonstrates patency and compressibility of the right/Locative  
+ brachial vein/Anatomy. Spot fluoroscopic images demonstrate PICC/DEVICE|DIAGNOSISORPROBLEM line/Device  
+ with tip/Locative at SVC/RA junction. 
+ 
+ Impression: 
+ 
+ Successful placement of a 4 French single lumen PICC/DEVICE|DIAGNOSISORPROBLEM line/Device using  
+ ultrasonic and fluoroscopic guidance. 
+ Images were reviewed and interpreted by Attending Radiologist:  
+ Finalized on: Apr-30-2004 3:18 PM by TalkStation Interface 
+ Billing Codes: 36489 x1,76942 x1,14102077 xlDx Codes:  
+ 
